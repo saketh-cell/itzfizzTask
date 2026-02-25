@@ -130,7 +130,7 @@ export default function Hero() {
 
         <div
           ref={roadRef}
-          className="absolute bottom-0 w-full h-32 bg-repeat-x bg-[url('/road.png')]"
+          className="absolute bottom-0 w-full h-32 bg-repeat-x"
         />
 
         <h1 className="text-5xl md:text-8xl font-bold -mt-6 tracking-[0.6rem] text-center flex flex-wrap justify-center z-10">
